@@ -7,16 +7,17 @@ Passionate and driven DevOps engineer, well-versed in an extensive array of DevO
 
 👤 My Profile
 
-apiVersion: v1
-kind: Profile
-metadata:
-  name: Mbugua-Maxwel 
-  labels:
-    name: myprofile
-spec:
-  containers:
-  - name: Profile
-    image: mbuguamaxwel/profile:v1-0.0
+     apiVersion: v1
+      kind: Profile
+        metadata:
+          name: Mbugua-Maxwel 
+        labels:
+          name: myprofile
+       spec:
+         containers:
+      - name: Profile
+         image: mbuguamaxwel:v1-0.0
+      
     
 
 
@@ -26,6 +27,18 @@ spec:
 🌟 Thanks for visiting! If you found any of my projects helpful or interesting, consider giving them a ⭐️.
 
     and
+
+    apiVersion: v1
+     kind: Profile
+       metadata:
+        name: Mbugua-Maxwel
+    labels:
+        name: myprofile
+    spec:
+      containers:
+       - name: Profile
+        image: mbuguamaxwel/profile:v1-0.0
+    
 		
 🔗🤝 Let's connect 🤗
 
