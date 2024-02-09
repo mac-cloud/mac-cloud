@@ -5,20 +5,19 @@ DEVOPS,DOCKER,JENKINS,ANSIBLE,PYTHON,AWS,CI/CD
 
 Passionate and driven DevOps engineer, well-versed in an extensive array of DevOps tools and practices, including Ansible, Git, Jenkins, Docker, cloud computing, automation,Kubernetes and CI/CD.
 
-My-profile
-
-
+👤 My Profile
 
 apiVersion: v1
 kind: Profile
 metadata:
-  name: Mbugua-maxwel
+  name: Mbugua-Maxwel 
   labels:
-    name: My-profile
+    name: myprofile
 spec:
   containers:
   - name: Profile
     image: mbuguamaxwel/profile:v1-0.0
+    
 
 
 🌐 Connect with me
